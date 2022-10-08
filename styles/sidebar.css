@@ -1,0 +1,54 @@
+.sideBar{
+position: fixed;
+left: 0;
+
+bottom:0;
+top:57px;
+background-color: white;
+
+}
+
+.photos12{
+
+margin-bottom: 12px;
+position: relative;
+
+
+}
+
+
+.side0{
+
+
+height: 75px;
+margin-bottom: 1px;
+display: flex;
+flex-direction: column;
+align-items: center;
+align-items:column;
+z-index: 200;
+padding-top: 5px;
+cursor: pointer;
+
+}
+
+.side0:hover{
+
+    background-color: lightgray;
+}
+
+.side0 img{
+
+width: 24px;
+margin-bottom: 4px;
+
+}
+
+.side0 div{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 10px;
+}
+
+
+
+
